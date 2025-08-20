@@ -1,6 +1,2 @@
-novikov.nikita.work@yandex.ru
-@nikita_vse_po_plany
-<!---
-nikita20002000/nikita20002000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ваш-логин&show_icons=true&theme=radical)](https://github.com/ваш-логин)
+[![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш-логин&layout=compact)](https://github.com/ваш-логин)
