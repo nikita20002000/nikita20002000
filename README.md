@@ -1,4 +1,4 @@
-# Nikita Novikov - Software Developer
+# Novikov Nikita - Software Developer
 
 <div>
 
@@ -6,27 +6,27 @@
 -`                                      nikita20002000@github
                    .o+`                 -------------------------------
                   `ooo/                 Profile: https://github.com/nikita20002000
-                 `+oooo:                Repositories: 25+ public repositories
-                `+oooooo:               Followers: 150+
-                -+oooooo+:              Following: 75+
-              `/:-:++oooo+:             Contributions: 1000+ in the last year
-             `/++++/+++++++:            Stars: 50+ received
-            `/++++++++++++++:           Forks: 20+ received
-           `/+++ooooooooooooo/`         Issues: 100+ opened/closed
-          ./ooosssso++osssssso+`        Pull Requests: 75+ opened/merged
-         .oossssso-````/ossssss+`       Languages: Python, JavaScript, HTML/CSS, TypeScript
-        -osssssso.      :ssssssso.      Top Language: Python (60%)
-       :osssssss/        osssso+++.     Second Language: JavaScript (25%)
-      /ossssssss/        +ssssooo/-     Third Language: HTML/CSS (10%)
-    `/ossssso+/:-        -:/+osssso+-   Joined: January 2020
-   `+sso+:-`                 `.-/+oso:  Activity: Very active
-  `++:.                           `-/+/ Streak: Current streak: 15 days
-  .`                                 `/ Longest Streak: Longest streak: 30 days
-                                        Organizations: Member of 3 organizations
-                                        Gists: 15+ public gists
+                 `+oooo:                Repositories: 30 public repositories
+                `+oooooo:               Followers: 4
+                -+oooooo+:              Following: 4
+              `/:-:++oooo+:             Contributions: Check profile for contributions
+             `/++++/+++++++:            Stars: 14 received
+            `/++++++++++++++:           Forks: 2 received
+           `/+++ooooooooooooo/`         Issues: Check profile for issues
+          ./ooosssso++osssssso+`        Pull Requests: Check profile for PRs
+         .oossssso-````/ossssss+`       Languages: HTML, Python, Java, CSS
+        -osssssso.      :ssssssso.      Top Language: Python (67%)
+       :osssssss/        osssso+++.     Second Language: Java (17%)
+      /ossssssss/        +ssssooo/-     Third Language: SCSS (14%)
+    `/ossssso+/:-        -:/+osssso+-   Joined: 2021-03-27
+   `+sso+:-`                 `.-/+oso:  Activity: Active
+  `++:.                           `-/+/ Streak: Check profile for streak
+  .`                                 `/ Longest Streak: Check profile for longest streak
+                                        Organizations: Member of 0 organizations
+                                        Gists: 0 public gists
                                         Sponsors: Open to sponsorship
-                                        Achievements: Arctic Code Vault Contributor
-                                        Projects: 5+ pinned projects
+                                        Achievements: Check profile for achievements
+                                        Projects: 5 pinned projects
 ```
 
 </div>
