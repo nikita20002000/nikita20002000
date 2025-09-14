@@ -9,24 +9,24 @@
                  `+oooo:                Repositories: 31 public repositories
                 `+oooooo:               Followers: 4
                 -+oooooo+:              Following: 4
-              `/:-:++oooo+:             Contributions: Loading...
+              `/:-:++oooo+:             Contributions: Check profile for contributions
              `/++++/+++++++:            Stars: 14 received
             `/++++++++++++++:           Forks: 2 received
-           `/+++ooooooooooooo/`         Issues: Loading...
-          ./ooosssso++osssssso+`        Pull Requests: Loading...
+           `/+++ooooooooooooo/`         Issues: Check profile for issues
+          ./ooosssso++osssssso+`        Pull Requests: Check profile for PRs
          .oossssso-````/ossssss+`       Languages: HTML, Python, Java, CSS
         -osssssso.      :ssssssso.      Top Language: Python (67%)
        :osssssss/        osssso+++.     Second Language: Java (17%)
       /ossssssss/        +ssssooo/-     Third Language: SCSS (14%)
     `/ossssso+/:-        -:/+osssso+-   Joined: 2021-03-27
-   `+sso+:-`                 `.-/+oso:  Activity: Loading...
-  `++:.                           `-/+/ Streak: Loading...
-  .`                                 `/ Longest Streak: Loading...
+   `+sso+:-`                 `.-/+oso:  Activity: Active
+  `++:.                           `-/+/ Streak: Check profile for streak
+  .`                                 `/ Longest Streak: Check profile for longest streak
                                         Organizations: Member of 0 organizations
-                                        Gists: Loading...
-                                        Sponsors: Loading...
-                                        Achievements: Loading...
-                                        Projects: Loading...
+                                        Gists: 0 public gists
+                                        Sponsors: Open to sponsorship
+                                        Achievements: Check profile for achievements
+                                        Projects: 5 pinned projects
 ```
 
 </div>
@@ -40,5 +40,5 @@
 
 
 <div align='center'>
-Last updated: 2025-09-13
+Last updated: 2025-09-14
 </div>
