@@ -1,4 +1,4 @@
-# Novikov Nikita - Software Developer
+# Novikov Nikita - Lead Software Developer
 
 <div>
 
