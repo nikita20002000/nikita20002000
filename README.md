@@ -3,7 +3,7 @@
 <div>
 
 ```
--`                                      nikita20002000@github
+                    -`                  nikita20002000@github
                    .o+`                 -------------------------------
                   `ooo/                 Profile: https://github.com/nikita20002000
                  `+oooo:                Repositories: 31 public repositories
