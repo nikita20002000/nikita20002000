@@ -11,7 +11,7 @@ USERNAME = "nikita20002000"
 # Default user information - will be updated with GitHub API data
 USER_INFO = {
     "name": "Nikita Novikov",
-    "title": "Software Developer",
+    "title": "Lead Software Developer",
     "location": "Russia",
     "email": "novikov.nikita.work@yandex.ru",
     "website": f"https://github.com/{USERNAME}",
