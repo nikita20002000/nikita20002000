@@ -3,12 +3,12 @@
 <div>
 
 ```
-                    -`                  nikita20002000@github
+-`                                      nikita20002000@github
                    .o+`                 -------------------------------
                   `ooo/                 Profile: https://github.com/nikita20002000
                  `+oooo:                Repositories: 31 public repositories
                 `+oooooo:               Followers: 5
-                -+oooooo+:              Following: 5
+                -+oooooo+:              Following: 6
               `/:-:++oooo+:             Contributions: Check profile for contributions
              `/++++/+++++++:            Stars: 14 received
             `/++++++++++++++:           Forks: 2 received
@@ -40,5 +40,5 @@
 
 
 <div align='center'>
-Last updated: 2026-04-02
+Last updated: 2026-04-03
 </div>
