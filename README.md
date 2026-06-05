@@ -7,17 +7,17 @@
                    .o+`                 -------------------------------
                   `ooo/                 Profile: https://github.com/nikita20002000
                  `+oooo:                Repositories: 31 public repositories
-                `+oooooo:               Followers: 5
+                `+oooooo:               Followers: 6
                 -+oooooo+:              Following: 6
               `/:-:++oooo+:             Contributions: Check profile for contributions
-             `/++++/+++++++:            Stars: 14 received
+             `/++++/+++++++:            Stars: 15 received
             `/++++++++++++++:           Forks: 2 received
            `/+++ooooooooooooo/`         Issues: Check profile for issues
           ./ooosssso++osssssso+`        Pull Requests: Check profile for PRs
          .oossssso-````/ossssss+`       Languages: HTML, Python, Java, CSS
-        -osssssso.      :ssssssso.      Top Language: Python (67%)
+        -osssssso.      :ssssssso.      Top Language: Python (68%)
        :osssssss/        osssso+++.     Second Language: Java (17%)
-      /ossssssss/        +ssssooo/-     Third Language: SCSS (14%)
+      /ossssssss/        +ssssooo/-     Third Language: SCSS (13%)
     `/ossssso+/:-        -:/+osssso+-   Joined: 2021-03-27
    `+sso+:-`                 `.-/+oso:  Activity: Active
   `++:.                           `-/+/ Streak: Check profile for streak
@@ -40,5 +40,5 @@
 
 
 <div align='center'>
-Last updated: 2026-06-04
+Last updated: 2026-06-05
 </div>
