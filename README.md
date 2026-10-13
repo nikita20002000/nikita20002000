@@ -1,4 +1,4 @@
-# Novikov Nikita
+# Novikov Nikita - Lead Software Developer
 
 <div>
 
@@ -40,5 +40,5 @@
 
 
 <div align='center'>
-Last updated: 2026-10-12
+Last updated: 2026-10-13
 </div>
